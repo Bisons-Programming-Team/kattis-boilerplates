@@ -7,7 +7,7 @@ line = stdin.readline()
 inputstring = line
 '''
 
-## INPUT STYLE: Test Cases
+# INPUT STYLE: Test Cases
 testcases = int(line)
 while line:
     # Your input processing code
